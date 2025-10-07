@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://via.placeholder.com/120?text=App+1",
+    "title": "NoteNest",
+    "companyName": "Nimbus Labs",
+    "id": 1,
+    "description": "A smart note-taking app that syncs across all devices and supports markdown.",
+    "size": 24.3,
+    "reviews": 2345,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 38 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 1722 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+2",
+    "title": "FitTrack",
+    "companyName": "PulseWorks",
+    "id": 2,
+    "description": "Track your workouts, calories, and progress with personalized goals.",
+    "size": 45.1,
+    "reviews": 987,
+    "ratingAvg": 4.2,
+    "downloads": 85000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 87 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 620 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+3",
+    "title": "Recipea",
+    "companyName": "KitchenCode",
+    "id": 3,
+    "description": "Discover and share delicious recipes with step-by-step instructions.",
+    "size": 33.7,
+    "reviews": 430,
+    "ratingAvg": 4.6,
+    "downloads": 56000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 258 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+4",
+    "title": "FocusFlow",
+    "companyName": "CalmByte",
+    "id": 4,
+    "description": "A Pomodoro-based focus timer with analytics and task tracking.",
+    "size": 12.9,
+    "reviews": 120,
+    "ratingAvg": 4.0,
+    "downloads": 23000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 41 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+5",
+    "title": "TravelMate",
+    "companyName": "WanderLabs",
+    "id": 5,
+    "description": "Plan trips, explore destinations, and manage itineraries with ease.",
+    "size": 78.4,
+    "reviews": 5600,
+    "ratingAvg": 4.7,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 75 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4065 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+6",
+    "title": "PocketLearn",
+    "companyName": "EduSpark",
+    "id": 6,
+    "description": "Micro-learning app offering short lessons and quizzes for quick learning.",
+    "size": 29.0,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 505 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+7",
+    "title": "PhotoForge",
+    "companyName": "PixelPro",
+    "id": 7,
+    "description": "Powerful photo editor with filters, AI enhancements, and collage tools.",
+    "size": 128.9,
+    "reviews": 2340,
+    "ratingAvg": 4.4,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1410 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+8",
+    "title": "MoneyMap",
+    "companyName": "FinanceFlow",
+    "id": 8,
+    "description": "Track income, expenses, and budgets with interactive charts.",
+    "size": 20.5,
+    "reviews": 340,
+    "ratingAvg": 4.1,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 145 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+9",
+    "title": "ChatterBox",
+    "companyName": "Socially",
+    "id": 9,
+    "description": "A lightweight and privacy-focused chat and microblogging platform.",
+    "size": 55.0,
+    "reviews": 1990,
+    "ratingAvg": 4.0,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+10",
+    "title": "TaskZen",
+    "companyName": "FlowWorks",
+    "id": 10,
+    "description": "Organize tasks using kanban boards and reminders for productivity.",
+    "size": 35.2,
+    "reviews": 780,
+    "ratingAvg": 4.3,
+    "downloads": 72000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 385 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+11",
+    "title": "LangBuddy",
+    "companyName": "Polyglot Inc",
+    "id": 11,
+    "description": "Learn new languages through games, quizzes, and speech recognition.",
+    "size": 40.8,
+    "reviews": 1540,
+    "ratingAvg": 4.6,
+    "downloads": 118000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 1065 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+12",
+    "title": "Weatherly",
+    "companyName": "SkyCast",
+    "id": 12,
+    "description": "A real-time weather app with hourly forecasts and radar maps.",
+    "size": 18.6,
+    "reviews": 410,
+    "ratingAvg": 4.2,
+    "downloads": 38000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 16 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 212 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+13",
+    "title": "DocuSignify",
+    "companyName": "SignLab",
+    "id": 13,
+    "description": "Securely sign and manage documents digitally with cloud backup.",
+    "size": 52.4,
+    "reviews": 860,
+    "ratingAvg": 4.4,
+    "downloads": 74000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 408 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+14",
+    "title": "TuneWave",
+    "companyName": "SonicBoom",
+    "id": 14,
+    "description": "Stream millions of songs and create personalized playlists easily.",
+    "size": 65.7,
+    "reviews": 5340,
+    "ratingAvg": 4.8,
+    "downloads": 490000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 3320 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+15",
+    "title": "ShopEase",
+    "companyName": "BuySmart",
+    "id": 15,
+    "description": "An e-commerce platform offering discounts, deals, and quick delivery.",
+    "size": 80.3,
+    "reviews": 6420,
+    "ratingAvg": 4.6,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 4020 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+16",
+    "title": "HealthMate",
+    "companyName": "WellCare",
+    "id": 16,
+    "description": "Monitor your health metrics and get daily fitness recommendations.",
+    "size": 54.2,
+    "reviews": 2300,
+    "ratingAvg": 4.3,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1220 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+17",
+    "title": "MindBloom",
+    "companyName": "ZenSoft",
+    "id": 17,
+    "description": "Meditation and mindfulness app for stress relief and better sleep.",
+    "size": 31.5,
+    "reviews": 1890,
+    "ratingAvg": 4.7,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 1340 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+18",
+    "title": "Foodly",
+    "companyName": "QuickBite",
+    "id": 18,
+    "description": "Food delivery app offering local favorites and top-rated restaurants.",
+    "size": 72.8,
+    "reviews": 8400,
+    "ratingAvg": 4.5,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 5710 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+19",
+    "title": "Readify",
+    "companyName": "BookVerse",
+    "id": 19,
+    "description": "E-book reader app supporting multiple formats and offline reading.",
+    "size": 39.4,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 89000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 488 }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/120?text=App+20",
+    "title": "SafeVault",
+    "companyName": "SecureTech",
+    "id": 20,
+    "description": "Password manager and vault app for securing sensitive information.",
+    "size": 26.9,
+    "reviews": 1290,
+    "ratingAvg": 4.6,
+    "downloads": 104000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 765 }
+    ]
+  }
+]
