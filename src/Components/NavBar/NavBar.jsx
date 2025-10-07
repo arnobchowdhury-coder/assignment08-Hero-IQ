@@ -13,7 +13,7 @@ const NavBar = () => {
           alt=""
           className="w-8 h-8"
         />
-        <h1 className="text-lg font-bold text-purple-700">{ }HERO.IO</h1>
+        <h1 className="text-lg font-bold text-purple-700">HERO.IO</h1>
       </div>
       <div>
         <ul className="hidden md:flex gap-6 text-gray-700 font-medium">
