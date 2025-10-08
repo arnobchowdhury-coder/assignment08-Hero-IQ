@@ -1,5 +1,6 @@
 import React from "react";
 import { FaGithub } from "react-icons/fa";
+import logo from "../../assets/logo.png"
 import { Link, NavLink, useNavigate } from "react-router";
 
 const NavBar = () => {
@@ -45,7 +46,7 @@ const NavBar = () => {
             navigate("/");
           }}
         >
-          <img src="/logo.png" className="w-[40px] h-[40px]" alt="" />
+          <img src={logo} className="w-[40px] h-[40px]" alt="" />
           <h1 className="md:text-2xl text-[18px] font-bold inter text-nowrap text-[#632EE3]">
             HERO.IO
           </h1>
