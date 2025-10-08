@@ -1,18 +1,18 @@
-import './App.css'
+
 import NavBar from './Components/NavBar/NavBar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
-import { Outlet } from 'react-router';
+import { Outlet, useNavigation } from 'react-router';
 
-function App() {
-
+function Root() {
+  const navigation = useNavigation();
 
   return (
     <>
       <NavBar></NavBar>
-      <Outlet></Outlet>
+      {navigation.state === "loading" ? <Loading /> : <Outlet></Outlet>}
       <Footer></Footer>
     </>
   )
 }
 
-export default App
+export default Root;
