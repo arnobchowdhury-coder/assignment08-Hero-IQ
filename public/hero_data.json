@@ -1,362 +1,542 @@
 [
   {
-    "image": "https://via.placeholder.com/120?text=App+1",
-    "title": "NoteNest",
-    "companyName": "Nimbus Labs",
+    "image": "/app-logo/icon-001.webp",
+    "title": "FlowSync: Smart Workflow Automation",
+    "companyName": "productive.io",
     "id": 1,
-    "description": "A smart note-taking app that syncs across all devices and supports markdown.",
-    "size": 24.3,
-    "reviews": 2345,
-    "ratingAvg": 4.5,
-    "downloads": 120000,
+    "description": "FlowSync automates your daily tasks by connecting tools like Gmail, Slack, and Notion into seamless workflows. From creating tasks automatically to syncing notes across platforms, it saves time and eliminates repetitive manual steps. Perfect for freelancers, teams, and productivity enthusiasts.",
+    "size": 258,
+    "reviews": "17K",
+    "ratingAvg": 4.9,
+    "downloads": "7M",
     "ratings": [
-      { "name": "1 star", "count": 45 },
-      { "name": "2 star", "count": 38 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 420 },
-      { "name": "5 star", "count": 1722 }
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 10200 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/120?text=App+2",
-    "title": "FitTrack",
-    "companyName": "PulseWorks",
+    "image": "/app-logo/icon-002.webp",
+    "title": "MindEase: Guided Meditation & Sleep",
+    "companyName": "Calmius Ltd.",
     "id": 2,
-    "description": "Track your workouts, calories, and progress with personalized goals.",
-    "size": 45.1,
-    "reviews": 987,
-    "ratingAvg": 4.2,
-    "downloads": 85000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 87 },
-      { "name": "4 star", "count": 210 },
-      { "name": "5 star", "count": 620 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+3",
-    "title": "Recipea",
-    "companyName": "KitchenCode",
-    "id": 3,
-    "description": "Discover and share delicious recipes with step-by-step instructions.",
-    "size": 33.7,
-    "reviews": 430,
-    "ratingAvg": 4.6,
-    "downloads": 56000,
-    "ratings": [
-      { "name": "1 star", "count": 10 },
-      { "name": "2 star", "count": 12 },
-      { "name": "3 star", "count": 40 },
-      { "name": "4 star", "count": 110 },
-      { "name": "5 star", "count": 258 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+4",
-    "title": "FocusFlow",
-    "companyName": "CalmByte",
-    "id": 4,
-    "description": "A Pomodoro-based focus timer with analytics and task tracking.",
-    "size": 12.9,
-    "reviews": 120,
-    "ratingAvg": 4.0,
-    "downloads": 23000,
-    "ratings": [
-      { "name": "1 star", "count": 8 },
-      { "name": "2 star", "count": 6 },
-      { "name": "3 star", "count": 25 },
-      { "name": "4 star", "count": 40 },
-      { "name": "5 star", "count": 41 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+5",
-    "title": "TravelMate",
-    "companyName": "WanderLabs",
-    "id": 5,
-    "description": "Plan trips, explore destinations, and manage itineraries with ease.",
-    "size": 78.4,
-    "reviews": 5600,
-    "ratingAvg": 4.7,
-    "downloads": 320000,
-    "ratings": [
-      { "name": "1 star", "count": 75 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 1200 },
-      { "name": "5 star", "count": 4065 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+6",
-    "title": "PocketLearn",
-    "companyName": "EduSpark",
-    "id": 6,
-    "description": "Micro-learning app offering short lessons and quizzes for quick learning.",
-    "size": 29.0,
-    "reviews": 980,
-    "ratingAvg": 4.3,
-    "downloads": 90000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 330 },
-      { "name": "5 star", "count": 505 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+7",
-    "title": "PhotoForge",
-    "companyName": "PixelPro",
-    "id": 7,
-    "description": "Powerful photo editor with filters, AI enhancements, and collage tools.",
-    "size": 128.9,
-    "reviews": 2340,
-    "ratingAvg": 4.4,
-    "downloads": 150000,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 220 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1410 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+8",
-    "title": "MoneyMap",
-    "companyName": "FinanceFlow",
-    "id": 8,
-    "description": "Track income, expenses, and budgets with interactive charts.",
-    "size": 20.5,
-    "reviews": 340,
-    "ratingAvg": 4.1,
-    "downloads": 47000,
-    "ratings": [
-      { "name": "1 star", "count": 15 },
-      { "name": "2 star", "count": 20 },
-      { "name": "3 star", "count": 60 },
-      { "name": "4 star", "count": 100 },
-      { "name": "5 star", "count": 145 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+9",
-    "title": "ChatterBox",
-    "companyName": "Socially",
-    "id": 9,
-    "description": "A lightweight and privacy-focused chat and microblogging platform.",
-    "size": 55.0,
-    "reviews": 1990,
-    "ratingAvg": 4.0,
-    "downloads": 98000,
-    "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 1140 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+10",
-    "title": "TaskZen",
-    "companyName": "FlowWorks",
-    "id": 10,
-    "description": "Organize tasks using kanban boards and reminders for productivity.",
-    "size": 35.2,
-    "reviews": 780,
-    "ratingAvg": 4.3,
-    "downloads": 72000,
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 220 },
-      { "name": "5 star", "count": 385 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+11",
-    "title": "LangBuddy",
-    "companyName": "Polyglot Inc",
-    "id": 11,
-    "description": "Learn new languages through games, quizzes, and speech recognition.",
-    "size": 40.8,
-    "reviews": 1540,
-    "ratingAvg": 4.6,
-    "downloads": 118000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 25 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 330 },
-      { "name": "5 star", "count": 1065 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+12",
-    "title": "Weatherly",
-    "companyName": "SkyCast",
-    "id": 12,
-    "description": "A real-time weather app with hourly forecasts and radar maps.",
-    "size": 18.6,
-    "reviews": 410,
-    "ratingAvg": 4.2,
-    "downloads": 38000,
-    "ratings": [
-      { "name": "1 star", "count": 12 },
-      { "name": "2 star", "count": 16 },
-      { "name": "3 star", "count": 50 },
-      { "name": "4 star", "count": 120 },
-      { "name": "5 star", "count": 212 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+13",
-    "title": "DocuSignify",
-    "companyName": "SignLab",
-    "id": 13,
-    "description": "Securely sign and manage documents digitally with cloud backup.",
-    "size": 52.4,
-    "reviews": 860,
-    "ratingAvg": 4.4,
-    "downloads": 74000,
-    "ratings": [
-      { "name": "1 star", "count": 22 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 140 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 408 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+14",
-    "title": "TuneWave",
-    "companyName": "SonicBoom",
-    "id": 14,
-    "description": "Stream millions of songs and create personalized playlists easily.",
-    "size": 65.7,
-    "reviews": 5340,
+    "description": "MindEase offers guided meditation, sleep sounds, and focus sessions to help reduce stress and improve mental clarity. With AI-personalized routines, you can choose themes like focus, deep sleep, or relaxation to fit your current mood and lifestyle.",
+    "size": 180,
+    "reviews": "24K",
     "ratingAvg": 4.8,
-    "downloads": 490000,
+    "downloads": "12M",
     "ratings": [
-      { "name": "1 star", "count": 180 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 1300 },
-      { "name": "5 star", "count": 3320 }
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 15500 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/120?text=App+15",
-    "title": "ShopEase",
-    "companyName": "BuySmart",
-    "id": 15,
-    "description": "An e-commerce platform offering discounts, deals, and quick delivery.",
-    "size": 80.3,
-    "reviews": 6420,
+    "image": "/app-logo/icon-003.webp",
+    "title": "Snapify: AI Photo Enhancer",
+    "companyName": "VisionForge Labs",
+    "id": 3,
+    "description": "Snapify brings your photos to life using powerful AI-based enhancement tools. Restore blurry images, remove backgrounds, and enhance lighting—all in seconds. Ideal for photographers, designers, and social media creators.",
+    "size": 315,
+    "reviews": "38K",
     "ratingAvg": 4.6,
-    "downloads": 510000,
+    "downloads": "18M",
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 520 },
-      { "name": "4 star", "count": 1600 },
-      { "name": "5 star", "count": 4020 }
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 2200 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 8900 },
+      { "name": "5 star", "count": 21000 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/120?text=App+16",
-    "title": "HealthMate",
-    "companyName": "WellCare",
-    "id": 16,
-    "description": "Monitor your health metrics and get daily fitness recommendations.",
-    "size": 54.2,
-    "reviews": 2300,
-    "ratingAvg": 4.3,
-    "downloads": 210000,
-    "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 110 },
-      { "name": "3 star", "count": 280 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1220 }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/120?text=App+17",
-    "title": "MindBloom",
-    "companyName": "ZenSoft",
-    "id": 17,
-    "description": "Meditation and mindfulness app for stress relief and better sleep.",
-    "size": 31.5,
-    "reviews": 1890,
+    "image": "/app-logo/icon-004.webp",
+    "title": "NotePeak: Cloud Notes Organizer",
+    "companyName": "EverTech Systems",
+    "id": 4,
+    "description": "NotePeak combines minimal design with cloud sync for easy note-taking across devices. Tag, search, and organize your notes with real-time collaboration, markdown support, and end-to-end encryption.",
+    "size": 142,
+    "reviews": "12K",
     "ratingAvg": 4.7,
-    "downloads": 130000,
+    "downloads": "4M",
     "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 30 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 360 },
-      { "name": "5 star", "count": 1340 }
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6600 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/120?text=App+18",
-    "title": "Foodly",
-    "companyName": "QuickBite",
-    "id": 18,
-    "description": "Food delivery app offering local favorites and top-rated restaurants.",
-    "size": 72.8,
-    "reviews": 8400,
+    "image": "/app-logo/icon-005.webp",
+    "title": "Forest: Focus for Productivity",
+    "companyName": "productive.io",
+    "id": 5,
+    "description": "Forest helps you stay focused by growing virtual trees as you work. The longer you concentrate, the lusher your forest becomes. Disconnect from distractions and build better focus habits that improve real productivity.",
+    "size": 258,
+    "reviews": "17K",
+    "ratingAvg": 4.9,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 850 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 10200 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-006.webp",
+    "title": "TaskZen: Daily Planner & Tracker",
+    "companyName": "Planify Digital",
+    "id": 6,
+    "description": "TaskZen is your personal productivity manager. Create daily to-do lists, track goals, and manage habits through an intuitive dashboard with motivational streaks and reminders.",
+    "size": 193,
+    "reviews": "22K",
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 12800 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-007.webp",
+    "title": "TuneBeam: Stream Music Anywhere",
+    "companyName": "SoundSphere",
+    "id": 7,
+    "description": "TuneBeam lets you stream, share, and discover new music effortlessly. Create collaborative playlists with friends, explore trending tracks, and enjoy high-quality audio streaming worldwide.",
+    "size": 280,
+    "reviews": "31K",
     "ratingAvg": 4.5,
-    "downloads": 620000,
+    "downloads": "10M",
     "ratings": [
-      { "name": "1 star", "count": 220 },
-      { "name": "2 star", "count": 190 },
-      { "name": "3 star", "count": 480 },
-      { "name": "4 star", "count": 1800 },
-      { "name": "5 star", "count": 5710 }
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 12700 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/120?text=App+19",
-    "title": "Readify",
-    "companyName": "BookVerse",
-    "id": 19,
-    "description": "E-book reader app supporting multiple formats and offline reading.",
-    "size": 39.4,
-    "reviews": 980,
-    "ratingAvg": 4.4,
-    "downloads": 89000,
+    "image": "/app-logo/icon-008.webp",
+    "title": "Walleta: Expense Tracker",
+    "companyName": "FinVerse",
+    "id": 8,
+    "description": "Walleta helps you manage finances by tracking spending, visualizing expenses, and setting saving goals. Its automatic transaction detection and reports make budgeting simple.",
+    "size": 156,
+    "reviews": "27K",
+    "ratingAvg": 4.8,
+    "downloads": "8M",
     "ratings": [
-      { "name": "1 star", "count": 22 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 160 },
-      { "name": "4 star", "count": 270 },
-      { "name": "5 star", "count": 488 }
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 16100 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/120?text=App+20",
-    "title": "SafeVault",
-    "companyName": "SecureTech",
-    "id": 20,
-    "description": "Password manager and vault app for securing sensitive information.",
-    "size": 26.9,
-    "reviews": 1290,
+    "image": "/app-logo/icon-009.webp",
+    "title": "Travelory: Smart Trip Planner",
+    "companyName": "GlobeTrek Labs",
+    "id": 9,
+    "description": "Travelory is an AI trip planner that curates destinations, stays, and itineraries. Sync your plans offline, share them with friends, and get real-time updates on flights and weather.",
+    "size": 221,
+    "reviews": "19K",
     "ratingAvg": 4.6,
-    "downloads": 104000,
+    "downloads": "6M",
     "ratings": [
-      { "name": "1 star", "count": 35 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 765 }
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 12500 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-010.webp",
+    "title": "CookMate: Recipe & Grocery Helper",
+    "companyName": "KitchenCore",
+    "id": 10,
+    "description": "CookMate helps you plan meals, manage grocery lists, and discover new recipes based on your ingredients. AI suggests meal plans tailored to your dietary preferences.",
+    "size": 210,
+    "reviews": "11K",
+    "ratingAvg": 4.5,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-011.webp",
+    "title": "HealthIQ: Wellness Tracker",
+    "companyName": "VitalCore",
+    "id": 11,
+    "description": "HealthIQ tracks your steps, sleep, and heart rate while providing personalized health insights. Integrates with wearables and gives daily health tips for a better lifestyle.",
+    "size": 190,
+    "reviews": "15K",
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7100 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-012.webp",
+    "title": "Langly: AI Language Tutor",
+    "companyName": "LingoWorks",
+    "id": 12,
+    "description": "Langly uses conversational AI to help you learn new languages naturally. Practice speaking, get pronunciation feedback, and chat with native-like fluency simulators.",
+    "size": 260,
+    "reviews": "29K",
+    "ratingAvg": 4.9,
+    "downloads": "14M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 18200 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-013.webp",
+    "title": "FitWave: Home Workout Coach",
+    "companyName": "BodyTune",
+    "id": 13,
+    "description": "FitWave brings personal training to your home with video workouts, progress tracking, and AI form correction. Choose from yoga, strength, or cardio plans tailored to your fitness level.",
+    "size": 300,
+    "reviews": "42K",
+    "ratingAvg": 4.8,
+    "downloads": "11M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 3700 },
+      { "name": "4 star", "count": 8900 },
+      { "name": "5 star", "count": 25600 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-014.webp",
+    "title": "CryptoDash: Market Monitor",
+    "companyName": "CoinVision",
+    "id": 14,
+    "description": "CryptoDash tracks prices, news, and trends across global crypto exchanges. Features portfolio sync, price alerts, and a clean dashboard for real-time updates.",
+    "size": 167,
+    "reviews": "20K",
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 11800 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-015.webp",
+    "title": "PixTune: Video Editor",
+    "companyName": "CreativeCore",
+    "id": 15,
+    "description": "PixTune gives creators advanced editing tools with music syncing and color grading options. Perfect for YouTubers and short-form video enthusiasts.",
+    "size": 352,
+    "reviews": "33K",
+    "ratingAvg": 4.7,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 3600 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 17800 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-016.webp",
+    "title": "TimeBloc: Smart Scheduler",
+    "companyName": "Zenovate Apps",
+    "id": 16,
+    "description": "TimeBloc helps you master your day with time-blocked scheduling. Drag and drop tasks, create color-coded routines, and get analytics on where your time goes. It syncs with calendars to prevent overlaps and boosts daily focus.",
+    "size": 145,
+    "reviews": "18K",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-017.webp",
+    "title": "Moodly: Daily Mood Journal",
+    "companyName": "Mindcraft Studio",
+    "id": 17,
+    "description": "Moodly lets you record your emotions, habits, and thoughts through visual journaling. AI analyzes your mood trends over time and gives mental wellness insights. Secure and beautifully designed for self-reflection.",
+    "size": 128,
+    "reviews": "9K",
+    "ratingAvg": 4.9,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-018.webp",
+    "title": "Brewly: Coffee Recipes & Timer",
+    "companyName": "Caffeinex",
+    "id": 18,
+    "description": "Brewly teaches you the art of coffee-making — from espresso to pour-over. It includes step-by-step brew guides, bean tracking, and a customizable timer for perfect extractions every time.",
+    "size": 96,
+    "reviews": "5K",
+    "ratingAvg": 4.6,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-019.webp",
+    "title": "CodeBoard: Developer Notes",
+    "companyName": "DevVerse",
+    "id": 19,
+    "description": "CodeBoard is a minimalist notes app built for developers. Supports syntax highlighting, code snippets, and GitHub integration to keep all your technical notes organized and synced.",
+    "size": 172,
+    "reviews": "8K",
+    "ratingAvg": 4.7,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-020.webp",
+    "title": "EcoTrack: Carbon Footprint Monitor",
+    "companyName": "GreenMind",
+    "id": 20,
+    "description": "EcoTrack calculates and tracks your daily carbon footprint. It provides personalized suggestions to reduce impact and gamifies sustainability with eco-points and achievements.",
+    "size": 153,
+    "reviews": "12K",
+    "ratingAvg": 4.5,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-021.webp",
+    "title": "StockMind: Trading Simulator",
+    "companyName": "FinLearn",
+    "id": 21,
+    "description": "StockMind lets beginners learn investing through realistic stock simulations. Build portfolios, analyze charts, and compete on leaderboards without using real money.",
+    "size": 240,
+    "reviews": "26K",
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 12800 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-022.webp",
+    "title": "Dreamio: Sleep Sound & Tracker",
+    "companyName": "NightTech",
+    "id": 22,
+    "description": "Dreamio improves your sleep through calming sounds, guided sessions, and sleep-cycle tracking. It adapts to your habits to help you fall asleep faster and wake up refreshed.",
+    "size": 205,
+    "reviews": "16K",
+    "ratingAvg": 4.8,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 10600 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-023.webp",
+    "title": "NewsPilot: Smart News Feed",
+    "companyName": "InfoStream",
+    "id": 23,
+    "description": "NewsPilot curates breaking news tailored to your interests using AI. It offers voice summaries, region filters, and distraction-free reading modes.",
+    "size": 137,
+    "reviews": "22K",
+    "ratingAvg": 4.3,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 10600 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-024.webp",
+    "title": "ChefCam: AR Cooking Assistant",
+    "companyName": "FoodLens",
+    "id": 24,
+    "description": "ChefCam uses augmented reality to guide you through recipes. It recognizes ingredients through your camera and provides real-time visual steps and timers for perfect cooking.",
+    "size": 320,
+    "reviews": "10K",
+    "ratingAvg": 4.7,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-025.webp",
+    "title": "Quizora: Learn with Quizzes",
+    "companyName": "StudyHub",
+    "id": 25,
+    "description": "Quizora turns learning into a game. Explore thousands of subjects, compete with friends, and climb global leaderboards while mastering topics through adaptive quizzes.",
+    "size": 184,
+    "reviews": "30K",
+    "ratingAvg": 4.8,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 15500 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-026.webp",
+    "title": "SafeLock: Password Vault",
+    "companyName": "CyberKeep",
+    "id": 26,
+    "description": "SafeLock stores your passwords securely with military-grade encryption. Autofill logins, generate strong passwords, and sync across devices while keeping privacy first.",
+    "size": 118,
+    "reviews": "19K",
+    "ratingAvg": 4.9,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 12300 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-027.webp",
+    "title": "FlowPaint: Digital Art Studio",
+    "companyName": "Artify Labs",
+    "id": 27,
+    "description": "FlowPaint is a mobile art studio featuring pressure-sensitive brushes, layers, and color blending. Whether sketching or painting, it brings pro-grade tools to your fingertips.",
+    "size": 365,
+    "reviews": "28K",
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 5300 },
+      { "name": "5 star", "count": 14400 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-028.webp",
+    "title": "FocusCam: Auto Blur Background",
+    "companyName": "VisionaryTech",
+    "id": 28,
+    "description": "FocusCam turns your camera into a professional tool by adding cinematic background blur, filters, and lighting adjustments in real-time during video calls or recordings.",
+    "size": 299,
+    "reviews": "25K",
+    "ratingAvg": 4.5,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 9600 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-029.webp",
+    "title": "MindChess: AI Strategy Game",
+    "companyName": "BrainStorm Games",
+    "id": 29,
+    "description": "MindChess offers a sleek, AI-powered chess experience with puzzles, rankings, and tutorials for every skill level. Compete online or challenge the adaptive offline engine.",
+    "size": 178,
+    "reviews": "33K",
+    "ratingAvg": 4.8,
+    "downloads": "11M",
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 6100 },
+      { "name": "5 star", "count": 17100 }
+    ]
+  },
+  {
+    "image": "/app-logo/icon-030.webp",
+    "title": "ZenPet: Pet Care Tracker",
+    "companyName": "HappyTail",
+    "id": 30,
+    "description": "ZenPet helps you manage your pet’s health, feeding schedule, and vaccination reminders. Log vet visits, set medication alerts, and track their activity levels easily.",
+    "size": 164,
+    "reviews": "14K",
+    "ratingAvg": 4.6,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6900 }
     ]
   }
 ]
