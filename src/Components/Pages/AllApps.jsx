@@ -1,21 +1,28 @@
 import { useEffect, useState } from "react";
 import { FaSearch } from "react-icons/fa";
 import { useLoaderData } from "react-router";
+import AppCard from "../Cards/AppCard";
+import Loading from "../Loading/Loading";
 
 const AllApps = () => {
   const apps = useLoaderData();
 
-  const [allApps, setAllApps] = useState();
+  const [allApps, setAllApps] = useState([]);
+  const [search, setSearch] = useState(false);
   useEffect(() => {
     setAllApps(apps);
   }, [apps]);
 
   const handleSearch = (e) => {
-    const userText = e.target.value.toLowerCase();
-    const filterApps = apps.filter((app) =>
-      app.title.toLowerCase().includes(userText)
-    );
-    setAllApps(filterApps);
+    setSearch(true);
+    setTimeout(() => {
+      const userText = e.target.value.toLowerCase();
+      const filterApps = apps.filter((app) =>
+        app.title.toLowerCase().includes(userText)
+      );
+      setAllApps(filterApps);
+      setSearch(false)
+    }, 1000);
   };
 
   return (
@@ -42,17 +49,27 @@ const AllApps = () => {
           <FaSearch className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
         </div>
       </div>
-      {allApps && allApps.length > 0 ? (
-        <div className="max-w-[1440px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-4 mt-5">
-          {allApps.map((app) => (
-            <AppCard key={app.id} app={app} />
-          ))}
-        </div>
+
+      {search ? (
+        <>
+          <Loading></Loading>
+        </>
       ) : (
-        <h1 className="text-center mt-5 text-gray-500 text-5xl font-extrabold ">
-          No Apps Found
-        </h1>
-      )}
+        <>
+          {allApps && allApps.length > 0 ? (
+            <div className="max-w-[1440px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-4 mt-5">
+              {allApps.map((app) => (
+                <AppCard key={app.id} app={app} />
+              ))}
+            </div>
+          ) : (
+            <h1 className="text-center mt-5 text-gray-500 text-5xl font-extrabold ">
+              No Apps Found
+            </h1>
+          )}
+        </>
+      )
+      }
     </div>
   );
 };

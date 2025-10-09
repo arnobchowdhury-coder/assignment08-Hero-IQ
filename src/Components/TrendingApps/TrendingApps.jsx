@@ -1,6 +1,6 @@
 import React from 'react';
-import AppCards from '../Cards/AppCard';
 import { Link } from 'react-router';
+import AppCard from '../Cards/AppCard';
 
 const TrendingApps = ({ apps }) => {
   return (
@@ -11,7 +11,7 @@ const TrendingApps = ({ apps }) => {
       </p>
       <div className="max-w-[1440px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-4 mt-10">
         {apps.map((app) => (
-          <AppCards key={app.id} app={app} />
+          <AppCard key={app.id} app={app} />
         ))}
       </div>
       <div className="flex justify-center mt-10 items-center">
