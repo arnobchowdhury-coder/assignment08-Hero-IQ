@@ -66,7 +66,7 @@ const NavBar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <Link to="https://github.com/BrainlessDip/PH-B12-08-HeroIO">
+        <Link to="https://github.com/arnobchowdhury-coder/assignment08-Hero-IQ">
           <div className="px-4 py-3 rounded-[4px] bg-[linear-gradient(125deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] text-white font-semibold flex justify-between items-center gap-2.5">
             <FaGithub className="w-[20px] h-[20px]" />
             Contribute

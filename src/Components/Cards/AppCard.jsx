@@ -4,13 +4,13 @@ import { FaDownload } from "react-icons/fa";
 import { useNavigate } from 'react-router';
 
 
-const AppCards = ({ app }) => {
+const AppCard = ({ app }) => {
   const navigate = useNavigate();
   return (
     <div
       className="rounded-[4px] p-4 bg-white shadow-md space-y-2"
       onClick={() => {
-        navigate(`hero_data/${app.id}`);
+        navigate(`apps/${app.id}`);
       }}
     >
       <img
@@ -31,4 +31,4 @@ const AppCards = ({ app }) => {
   );
 };
 
-export default AppCards;
+export default AppCard;

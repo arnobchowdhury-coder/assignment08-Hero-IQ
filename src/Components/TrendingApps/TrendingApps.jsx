@@ -1,5 +1,5 @@
 import React from 'react';
-import AppCards from '../Cards/AppCards';
+import AppCards from '../Cards/AppCard';
 import { Link } from 'react-router';
 
 const TrendingApps = ({ apps }) => {

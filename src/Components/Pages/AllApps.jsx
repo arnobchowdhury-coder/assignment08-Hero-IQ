@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import AppCards from "../Cards/AppCards";
 import { FaSearch } from "react-icons/fa";
 import { useLoaderData } from "react-router";
 

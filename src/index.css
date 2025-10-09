@@ -4,3 +4,10 @@
 .inter {
   font-family: "Inter";
 }
+
+a.active {
+  color: #632ee3;
+  text-decoration: underline;
+  font-weight: 700;
+  text-underline-offset: 7px;
+}

@@ -9,6 +9,8 @@ import AppDetails from './Components/Pages/AppDetails.jsx';
 import Root from './Root.jsx';
 import axios from 'axios';
 import Loading from './Components/Loading/Loading.jsx';
+import Installation from './Components/Pages/Installation.jsx';
+import NotFound from './Components/Pages/NotFound.jsx';
 
 
 const router = createBrowserRouter([
@@ -20,18 +22,27 @@ const router = createBrowserRouter([
       {
         index: true,
         Component: Home,
-        loader: async () => (await axios("/public/hero_data.json")).data,
+        loader: async () => (await axios("/apps.json")).data,
 
       },
       {
         path: "/apps",
-        loader: async () => (await axios("/public/hero_data.json")).data,
+        loader: async () => (await axios("/apps.json")).data,
         Component: AllApps,
       },
       {
         path: "/apps/:id",
-        loader: async () => (await axios("/public/hero_data.json")).data,
+        loader: async () => (await axios("/apps.json")).data,
         Component: AppDetails,
+      },
+      {
+        path: "/installation",
+        loader: async () => (await axios("/apps.json")).data,
+        Component: Installation,
+      },
+      {
+        path: "*",
+        Component: NotFound,
       },
     ],
   },
